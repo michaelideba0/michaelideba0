@@ -26,7 +26,7 @@ I’m passionate about **software development, web technologies**, and building 
 
 ### 📫 Contact Me  
 📧 Email: [michaelideba0@gmail.com](mailto:michaelideba0@gmail.com)  
-🌐 Portfolio: [michaelideba0.github.io/portfolio-website](https://michaelideba0.github.io/portfolio-website)  
+  
 
 
 ---
