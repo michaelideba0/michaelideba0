@@ -25,7 +25,7 @@ I’m passionate about **software development, web technologies**, and building 
 ---
 
 ### 📫 Contact Me  
-📧 Email: [michaelideba0@gmail.com](mailto:michaelideba0@gmail.com)  
+📧 Email:[idebamichael23@gmail.com](mailto:idebamichael23@gmail.com)  
   
 
 
