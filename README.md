@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Michael Ideba</h1>
+<h1 align="center">👋 Hi, Ashley Abramson</h1>
 <h3 align="center">💻 Aspiring Application Developer | Web Enthusiast</h3>
 
 <p align="center">
